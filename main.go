@@ -1,0 +1,5 @@
+package kafkalog
+
+func main() {
+
+}

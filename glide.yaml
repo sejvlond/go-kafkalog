@@ -1,0 +1,3 @@
+package: github.com/sejvlond/go-kafkalog
+import:
+- package: github.com/golang/snappy
